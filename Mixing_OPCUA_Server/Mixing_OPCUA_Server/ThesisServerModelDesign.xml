@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<opc:ModelDesign
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:opc="http://opcfoundation.org/UA/ModelDesign.xsd"
+  xmlns:ua="http://opcfoundation.org/UA/"
+  xmlns:uax="http://opcfoundation.org/UA/2008/02/Types.xsd"
+	xmlns="http://opcfoundation.org/ThesisServer"
+  TargetNamespace="http://opcfoundation.org/ThesisServer"
+>
+<opc:Namespaces>
+    <opc:Namespace Name="OpcUa" Prefix="Opc.Ua" XmlNamespace="http://opcfoundation.org/UA/2008/02/Types.xsd">http://opcfoundation.org/UA/</opc:Namespace>
+    <opc:Namespace Name="ThesisServer" Prefix="ThesisServer">http://opcfoundation.org/ThesisServer</opc:Namespace>
+  </opc:Namespaces>
+
+
+    <!-- ### Object Types ###-->
+    <opc:ObjectType SymbolicName="GenericControllerType" BaseType="ua:BaseObjectType">
+        <opc:Description>A generic PID controller</opc:Description>
+        <opc:Children>
+            <opc:Property SymbolicName="SetPoint" DataType="ua:Double" ValueRank="Scalar" AccessLevel="ReadWrite" />
+            <opc:Property SymbolicName="Ki" DataType="ua:Double" ValueRank="Scalar" AccessLevel="ReadWrite" />
+            <opc:Property SymbolicName="Kp" DataType="ua:Double" ValueRank="Scalar" AccessLevel="ReadWrite" />
+            <opc:Property SymbolicName="Kd" DataType="ua:Double" ValueRank="Scalar" AccessLevel="ReadWrite" />
+        </opc:Children>
+  </opc:ObjectType>
+
+    <opc:ObjectType SymbolicName="AnalogInputType" BaseType="ua:BaseObjectType">
+        <opc:Description>Type stand for all analog input of the controller.</opc:Description>
+        <opc:Children>
+            <opc:Variable SymbolicName="Output" DataType="ua:Double" ValueRank="Scalar" AccessLevel="ReadWrite"/>
+            <opc:Variable SymbolicName="HighLimt" DataType="ua:Double" ValueRank="Scalar"  AccessLevel="ReadWrite"/>
+            <opc:Variable SymbolicName="LowLimit" DataType="ua:Double" ValueRank="Scalar"  AccessLevel="ReadWrite"/>
+            <opc:Variable SymbolicName="HighLimtAlarm" DataType="ua:Boolean" ValueRank="Scalar"  AccessLevel="ReadWrite"/>
+            <opc:Variable SymbolicName="LowLimitAlarm" DataType="ua:Boolean" ValueRank="Scalar" AccessLevel="ReadWrite"/>
+        </opc:Children>
+    </opc:ObjectType>
+ 
+    <opc:ObjectType SymbolicName="AnalogOutputType" BaseType="ua:BaseObjectType">
+        <opc:Description>Type stand for all analog input of the controller.</opc:Description>
+        <opc:Children>
+            <opc:Variable SymbolicName="Input" DataType="ua:Double" ValueRank="Scalar" AccessLevel="ReadWrite"/>
+        </opc:Children>
+    </opc:ObjectType>
+
+    <opc:ObjectType SymbolicName="DigitalType" BaseType="ua:BaseObjectType">
+        <opc:Description>All digital object in the system.</opc:Description>
+        <opc:Children>
+            <opc:Variable SymbolicName="Value" DataType="ua:Boolean" ValueRank="Scalar" AccessLevel="ReadWrite"/>
+        </opc:Children>
+    </opc:ObjectType>
+
+    <opc:ObjectType SymbolicName="ValveType" BaseType="AnalogOutputType">
+        <opc:Description>Analog valve</opc:Description>
+    </opc:ObjectType>
+
+    <opc:ObjectType SymbolicName="AnalogSensorType" BaseType="AnalogInputType">
+        <opc:Description>Sensor</opc:Description>
+    </opc:ObjectType>
+
+	<opc:ObjectType SymbolicName="ButtonType" BaseType="DigitalType">
+		<opc:Description>Button</opc:Description>
+	</opc:ObjectType>
+	
+    <!-- ### Variable Types ###-->
+    <!-- ### Data Types ###-->
+	
+    <!-- ### Objects ###-->
+    <opc:Object SymbolicName="Plant1" BaseType="ua:BaseObjectType" SupportsEvents="true">
+        <opc:BrowseName>Plant 1</opc:BrowseName>
+        <opc:Children>
+            <opc:Object SymbolicName="Tank1" BaseType="ua:BaseObjectType" SupportsEvents="true">
+                <opc:BrowseName>Tank 1</opc:BrowseName>
+                <opc:Children>
+                    <opc:Object SymbolicName="OperationDevice" BaseType="ua:BaseObjectType" SupportsEvents="true">
+                        <opc:BrowseName>Operation Device</opc:BrowseName>
+                        <opc:Children>
+                            <opc:Object SymbolicName="LevelMeter" TypeDefinition="AnalogSensorType" SupportsEvents="true">
+                                <opc:BrowseName>Level Meter</opc:BrowseName>
+                            </opc:Object>
+                            <opc:Object SymbolicName="InputPipe" BaseType="ua:FolderType" SupportsEvents="true">
+                            <opc:BrowseName>Input Pipe</opc:BrowseName>
+                                <opc:Children>
+                                    <opc:Object SymbolicName="FillValve" TypeDefinition="ValveType" SupportsEvents="true">
+                                        <opc:BrowseName>FillValve</opc:BrowseName>
+                                    </opc:Object>
+                                </opc:Children>
+                            </opc:Object>
+                            <opc:Object SymbolicName="OutputPipe" BaseType="ua:FolderType" SupportsEvents="true">
+                                <opc:BrowseName>Output pipe</opc:BrowseName>
+                                <opc:Children>
+                                    <opc:Object SymbolicName="DischargeValve" TypeDefinition="ValveType" SupportsEvents="true">
+                                        <opc:BrowseName>DischargeValve</opc:BrowseName>
+                                    </opc:Object>
+                                    <opc:Object SymbolicName="FlowMeter" TypeDefinition="AnalogSensorType" SupportsEvents="true">
+                                        <opc:BrowseName>FlowMeter</opc:BrowseName>
+                                    </opc:Object>
+                                </opc:Children>
+                            </opc:Object>
+                        </opc:Children>
+                    </opc:Object>
+
+                    <opc:Object SymbolicName="OperationButton" BaseType="ua:BaseObjectType" SupportsEvents="true">
+                        <opc:BrowseName>Operation Button</opc:BrowseName>
+                        <opc:Children>
+                            <opc:Object SymbolicName="StartButton" TypeDefinition="ButtonType" SupportsEvents="true">
+                                <opc:BrowseName>Start</opc:BrowseName>
+                            </opc:Object>
+                            <opc:Object SymbolicName="StopButton" TypeDefinition="ButtonType" SupportsEvents="true">
+                                <opc:BrowseName>Stop</opc:BrowseName>
+                            </opc:Object>
+                            <opc:Object SymbolicName="ResetButton" TypeDefinition="ButtonType" SupportsEvents="true">
+                                <opc:BrowseName>Reset</opc:BrowseName>
+                            </opc:Object>
+                            <opc:Object SymbolicName="modeButton" TypeDefinition="ButtonType" SupportsEvents="true">
+                                <opc:BrowseName>Auto/Man</opc:BrowseName>
+                            </opc:Object>
+                        </opc:Children>
+                    </opc:Object>
+
+                    <opc:Object SymbolicName="LevelController" TypeDefinition="GenericControllerType" SupportsEvents="true">
+                        <opc:BrowseName>PID Level Controller</opc:BrowseName>
+                    </opc:Object>      
+                </opc:Children>
+            </opc:Object>    
+        </opc:Children>
+        <opc:References>
+            <opc:Reference IsInverse="true">
+                <opc:ReferenceType>ua:Organizes</opc:ReferenceType>
+                <opc:TargetId>ua:ObjectsFolder</opc:TargetId>
+            </opc:Reference>
+        </opc:References>    
+    </opc:Object>
+
+</opc:ModelDesign>

@@ -1,0 +1,360 @@
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe.config
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ComponentModel.Annotations.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csprojAssemblyReference.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.Properties.Resources.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.GenerateResource.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.CoreCompileInputs.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.CopyComplete
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.exe
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.pdb
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe.config
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.pdb
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.pdb
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.xml
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.Properties.Resources.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.GenerateResource.cache
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.CoreCompileInputs.cache
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.CopyComplete
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.exe
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.pdb
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.AssemblyReference.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe.config
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.pdb
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.pdb
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.xml
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.AssemblyReference.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.Properties.Resources.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.GenerateResource.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.CoreCompileInputs.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Thesis OPCUA Server.csproj.CopyComplete
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.exe
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.pdb

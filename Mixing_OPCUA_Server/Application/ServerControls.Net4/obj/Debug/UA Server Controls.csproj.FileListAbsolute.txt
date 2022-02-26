@@ -1,0 +1,857 @@
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\System.Buffers.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\System.Memory.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Core.pdb
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Core.xml
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.pdb
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.xml
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Server.pdb
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Server.xml
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.pdb
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.xml
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\UA Server Controls.sourcelink.json
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+F:\OPC_UA\UA-.NETStandard-master\Applications\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Buffers.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Memory.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\netstandard.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.AppContext.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Console.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Home.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Seesion.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Endpoints.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Buffers.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Memory.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\netstandard.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.AppContext.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Console.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Endpoints.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Home.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Seesion.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Buffers.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Memory.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\netstandard.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.AppContext.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Console.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Endpoints.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Home.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Seesion.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Certification.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Buffers.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Memory.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\netstandard.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.AppContext.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Console.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Certification.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Endpoints.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Home.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Seesion.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+F:\Report\Báo cáo\01.Code\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.AssemblyReference.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Buffers.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Memory.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\netstandard.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.AppContext.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Console.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.AssemblyReference.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Certification.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Endpoints.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Home.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Seesion.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+F:\Report\Báo cáo\01.Sources\01.OPC UA Server\OPCUA Server\Mixing_OPCUA_Server\Application\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb

@@ -1,0 +1,360 @@
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe.config
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.pdb
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ComponentModel.Annotations.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.xml
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.Properties.Resources.resources
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.GenerateResource.cache
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.CoreCompileInputs.cache
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.CopyComplete
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.exe
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.pdb
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csprojAssemblyReference.cache
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.dll
+F:\OPC_UA\OPC UA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe.config
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.pdb
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csprojAssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.Properties.Resources.resources
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.CopyComplete
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.exe
+C:\Users\ASUS TUF\Downloads\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe.config
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.exe
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Mixing_OPCUA_Server.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ComponentModel.Annotations.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.dll
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.ServerControls.pdb
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\BouncyCastle.Crypto.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Options.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Newtonsoft.Json.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Bindings.Https.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Client.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Configuration.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Core.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Security.Certificates.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\Opc.Ua.Server.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Buffers.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Collections.Immutable.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Formats.Asn1.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.IO.Pipelines.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Memory.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Numerics.Vectors.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Reflection.Metadata.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Text.Encodings.Web.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\bin\Debug\System.ValueTuple.xml
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csprojAssemblyReference.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.Properties.Resources.resources
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.GenerateResource.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.CoreCompileInputs.cache
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.csproj.CopyComplete
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.exe
+D:\OPCUA Server\Mixing_OPCUA_Server\Mixing_OPCUA_Server\obj\Debug\Mixing_OPCUA_Server.pdb

@@ -1,0 +1,8 @@
+AnalogInputType,1,ObjectType
+AnalogOutputType,7,ObjectType
+AnalogSensorType,102,ObjectType
+ButtonType,66,ObjectType
+DigitalType,32,ObjectType
+GenericControllerType,92,ObjectType
+Plant1,50,Object
+ValveType,9,ObjectType
